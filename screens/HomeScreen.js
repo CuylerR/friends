@@ -26,6 +26,7 @@ const HomeScreen = () => {
           source={{
             // uri: "https://i.postimg.cc/5NZZ2Pgv/detail-secure-mark-only-white.png",
             // uri: "https://i.postimg.cc/B6F6HGJc/detail-secure-mark-only-white.png",
+            
              uri: "https://i.postimg.cc/65BvdZL0/download.png",
           }}
         />
