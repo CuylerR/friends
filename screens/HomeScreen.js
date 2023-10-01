@@ -7,6 +7,7 @@ import { GOOGLE_MAPS_APIKEY } from "@env";
 import { useDispatch } from "react-redux";
 import { setDestination, setOrigin } from "../slices/navSlice";
 import NavFavorites from "../components/NavFavorites";
+
 import { Icon } from "../components/NavFavorites";
 import ScreenLoad from "../components/ScreenLoad";
 
