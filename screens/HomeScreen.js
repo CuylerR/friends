@@ -25,12 +25,12 @@ const HomeScreen = () => {
           source={{
             // uri: "https://i.postimg.cc/5NZZ2Pgv/detail-secure-mark-only-white.png",
             // uri: "https://i.postimg.cc/B6F6HGJc/detail-secure-mark-only-white.png",
-            uri: "https://i.postimg.cc/L8Fsyjzr/url-thumbnailv2-transparent.png",
+             uri: "https://i.postimg.cc/65BvdZL0/download.png",
           }}
         />
 
         <GooglePlacesAutocomplete
-          placeholder="Where From?"
+          placeholder="Where From? (Swipe to return)"
           styles={{
             container: {
               flex: 0,

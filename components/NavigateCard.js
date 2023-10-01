@@ -6,9 +6,9 @@ import { GOOGLE_MAPS_APIKEY } from "@env";
 import { useDispatch } from "react-redux";
 import { setDestination } from "../slices/navSlice";
 import { useNavigation } from "@react-navigation/native";
-import { TouchableOpacity } from "react-native-web";
+// import { TouchableOpacity } from "react-native-web";
 // import NavFavorites from './NavFavorites';
-//import { Icon } from "react-native-elements";
+import { Icon } from "react-native-elements";
 
 const NavigateCard = () => {
   const dispatch = useDispatch();
@@ -51,9 +51,9 @@ const NavigateCard = () => {
       </View>
       <View>
         {/* <TouchableOpacity>
-                    <Icon name="car" type="font-awesome" color="white" size={16} />
-                        <Text style={tw`text-white text-center`}>Rides</Text>
-                </TouchableOpacity> */}
+            <Icon name="car" type="font-awesome" color="white" size={16} />
+            <Text style={tw`text-white text-center`}>Rides</Text>
+        </TouchableOpacity> */}
       </View>
     </SafeAreaView>
   );

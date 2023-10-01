@@ -10,13 +10,13 @@ import { Icon } from "react-native-elements";
 const data = [
     {
         id: "DG",
-        title: "Ride Detail",
+        title: "Ride",
         image: "https://i.postimg.cc/W3ZRGwxk/TravelV2.png",
         screen: "MapScreen",
     },
     {
         id: "DG+ES",
-        title: "Detail",
+        title: "Walk",
         image: "https://i.postimg.cc/Xv0pSSzz/Personal-V2.png",
         screen: "EscortScreen",
     },
