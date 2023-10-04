@@ -14,8 +14,11 @@
 
 
 #PREREQS
+
 #The Expo Go Application on your iphone or android
+
 #Visual Studio Code
+
 #Google Cloud Platform Account (For APIs)
 
 #Installation
