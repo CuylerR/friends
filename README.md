@@ -13,9 +13,12 @@
 #Another feature is seeing the pins on the map visually displayed and this works for anywhere in the world.
 
 
-#PREREQS
+#PREREQS TO RUN ON YOUR DEVICE
+
 #The Expo Go Application on your iphone or android
+
 #Visual Studio Code
+
 #Google Cloud Platform Account (For APIs)
 
 #Installation
